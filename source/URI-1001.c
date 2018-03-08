@@ -1,4 +1,4 @@
-// Programmed by MD. Mehedi Hasan
+// programmed by MD. Mehedi Hasan
 #include <stdio.h>
 int main()
 {
