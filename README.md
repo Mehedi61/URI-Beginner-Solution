@@ -1,4 +1,4 @@
-# URI-Beginner-Solution
+# URI Beginner Solution
 Solution of URI beginner level problems.  
 ## Solutions  
 * [URI problem 1001](https://github.com/Mehedi61/URI-Beginner-Solution/blob/master/source/URI-1001.c)
@@ -29,7 +29,6 @@ Solution of URI beginner level problems.
 * [URI problem 1036](https://github.com/Mehedi61/URI-Beginner-Solution/blob/master/source/URI-1036.c)
 * [URI problem 1037](https://github.com/Mehedi61/URI-Beginner-Solution/blob/master/source/URI-1037.c)
 * [URI problem 1038](https://github.com/Mehedi61/URI-Beginner-Solution/blob/master/source/URI-1038.c)
-* [URI problem 1004](https://github.com/Mehedi61/URI-Beginner-Solution/blob/master/source/URI-1004.c)
 * [URI problem 1041](https://github.com/Mehedi61/URI-Beginner-Solution/blob/master/source/URI-1041.c)
 * [URI problem 1042](https://github.com/Mehedi61/URI-Beginner-Solution/blob/master/source/URI-1042.c)
 * [URI problem 1043](https://github.com/Mehedi61/URI-Beginner-Solution/blob/master/source/URI-1043.c)
