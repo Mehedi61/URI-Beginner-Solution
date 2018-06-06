@@ -1,3 +1,4 @@
+// URI problem link: https://www.urionlinejudge.com.br/judge/en/problems/view/1012
 // Programmed by MD. Mehedi Hasan
 A, B, C = input().split()
 A, B, C = [float(A), float(B), float(C)]
