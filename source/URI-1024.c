@@ -1,3 +1,5 @@
+// URI problem link: https://www.urionlinejudge.com.br/judge/en/problems/view/1024
+
 #include <stdio.h>
 
 #include <string.h>
