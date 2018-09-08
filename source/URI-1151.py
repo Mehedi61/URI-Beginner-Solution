@@ -1,3 +1,5 @@
+# Problem Link: https://www.urionlinejudge.com.br/judge/en/problems/view/1151
+
 number = int(input())
 
 if number >= 46:
