@@ -34,3 +34,5 @@ Solution of URI beginner level problems (1001 - 1044).
 * [URI problem 1042](https://github.com/Mehedi61/URI-Beginner-Solution/blob/master/source/URI-1042.c)
 * [URI problem 1043](https://github.com/Mehedi61/URI-Beginner-Solution/blob/master/source/URI-1043.c)
 * [URI problem 1044](https://github.com/Mehedi61/URI-Beginner-Solution/blob/master/source/URI-1044.c)
+* [URI problem 1044](https://github.com/Mehedi61/URI-Beginner-Solution/blob/master/source/URI-1151.py)
+
