@@ -1,5 +1,5 @@
 # URI Beginner Solution
-Solution of URI beginner level problems (1001 - 1044).  
+Solution of URI beginner level problems.  
 
 ## Solutions  
 * [URI problem 1001](https://github.com/Mehedi61/URI-Beginner-Solution/blob/master/source/URI-1001.c)
