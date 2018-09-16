@@ -36,4 +36,4 @@ Solution of [URI beginner level problems](https://www.urionlinejudge.com.br/judg
 * [URI problem 1043 - Triangle](https://github.com/Mehedi61/URI-Beginner-Solution/blob/master/source/URI-1043.c)
 * [URI problem 1044 - Multiples](https://github.com/Mehedi61/URI-Beginner-Solution/blob/master/source/URI-1044.c)
 * [URI problem 1151 - Easy Fibonacci](https://github.com/Mehedi61/URI-Beginner-Solution/blob/master/source/URI-1151.py)
-* [URI problem 1165 - Prime Number]()
+* [URI problem 1165 - Prime Number](https://github.com/Mehedi61/URI-Beginner-Solution/blob/master/source/URI-1165.c)
