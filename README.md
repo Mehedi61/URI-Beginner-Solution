@@ -1,5 +1,5 @@
 # URI Beginner Solution
-Solution of [URI beginner level problems](https://www.urionlinejudge.com.br/judge/en/problems/index/1). All the solutions are accepted.  
+Solutions of [URI beginner level problems](https://www.urionlinejudge.com.br/judge/en/problems/index/1). All the solutions are accepted.  
 [MD. Mehedi Hasan](https://www.urionlinejudge.com.br/judge/en/profile/12058) on URI online judge.
 
 ## Solutions  
