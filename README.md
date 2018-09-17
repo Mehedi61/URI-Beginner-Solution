@@ -31,6 +31,7 @@ Solutions of [URI beginner level problems](https://www.urionlinejudge.com.br/jud
 * [URI problem 1036 - Bhaskara's Formula](https://github.com/Mehedi61/URI-Beginner-Solution/blob/master/source/URI-1036.c)
 * [URI problem 1037 - Interval](https://github.com/Mehedi61/URI-Beginner-Solution/blob/master/source/URI-1037.c)
 * [URI problem 1038 - Snack](https://github.com/Mehedi61/URI-Beginner-Solution/blob/master/source/URI-1038.c)
+* [URI problem 1040 - Average 3]()
 * [URI problem 1041 - Coordinates of a Point](https://github.com/Mehedi61/URI-Beginner-Solution/blob/master/source/URI-1041.c)
 * [URI problem 1042 - Simple Sort](https://github.com/Mehedi61/URI-Beginner-Solution/blob/master/source/URI-1042.c)
 * [URI problem 1043 - Triangle](https://github.com/Mehedi61/URI-Beginner-Solution/blob/master/source/URI-1043.c)
