@@ -35,6 +35,7 @@ Solutions of [URI beginner level problems](https://www.urionlinejudge.com.br/jud
 * [URI problem 1041 - Coordinates of a Point](https://github.com/Mehedi61/URI-Beginner-Solution/blob/master/source/URI-1041.c)
 * [URI problem 1042 - Simple Sort](https://github.com/Mehedi61/URI-Beginner-Solution/blob/master/source/URI-1042.c)
 * [URI problem 1043 - Triangle](https://github.com/Mehedi61/URI-Beginner-Solution/blob/master/source/URI-1043.c)
-* [URI problem 1044 - Multiples](https://github.com/Mehedi61/URI-Beginner-Solution/blob/master/source/URI-1044.c)
+* [URI problem 1044 - Multiples](https://github.com/Mehedi61/URI-Beginner-Solution/blob/master/source/URI-1044.c)  
+* [URI problem 1045 - Logical Sequence 2](https://github.com/Mehedi61/URI-Beginner-Solution/blob/master/source/URI-1045.c)
 * [URI problem 1151 - Easy Fibonacci](https://github.com/Mehedi61/URI-Beginner-Solution/blob/master/source/URI-1151.py)
 * [URI problem 1165 - Prime Number](https://github.com/Mehedi61/URI-Beginner-Solution/blob/master/source/URI-1165.c)
